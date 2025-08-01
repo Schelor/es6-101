@@ -1,0 +1,10 @@
+import './css/style.css'
+// 如果需要，可以直接导入图片
+import './imgs/es6.png';
+import './constants'
+import './scoping'
+import './array_define'
+import './arrow_function'
+import './destructuring_assignment'
+import './classes'
+import './promises'
